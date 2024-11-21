@@ -26,7 +26,7 @@ let person2: Person = {
   age: 66,
   isStudent: false,
   address: {
-    street: "456 Elm St.",
+    street: "456 Elm St",
     city: "Los Angeles",
     country: "USA"
   }
