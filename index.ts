@@ -114,4 +114,4 @@ console.log(getLastItems(gameScores));
 console.log(getLastItems(favouriteThings));
 console.log(getLastItems(voters));
 
-console.log("Version12");
+console.log("Version13");
