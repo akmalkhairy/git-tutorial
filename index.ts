@@ -113,3 +113,5 @@ function getLastItems<T>(array: T[]): T | undefined{
 console.log(getLastItems(gameScores));
 console.log(getLastItems(favouriteThings));
 console.log(getLastItems(voters));
+
+console.log("Version12");
